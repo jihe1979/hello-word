@@ -1,4 +1,6 @@
 # hello-word
-short discription
+short discription。
 
-hi,I am jihe,how are you?
+hi,I am jihe,how are you。
+
+hi,I am in Atom to edit you.
